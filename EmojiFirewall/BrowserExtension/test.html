@@ -1,0 +1,25 @@
+﻿<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Emoji Firewall Test</title>
+</head>
+<body>
+
+<h1>Emoji Firewall Browser Test</h1>
+
+<p>
+😀 😂 ❤️ ❤️‍🔥 👍 👍🏽 👨‍💻 👨‍👩‍👧‍👦 🇺🇸 🇬🇧 1️⃣ ☕
+</p>
+
+<div id="dynamic"></div>
+
+<script>
+setTimeout(() => {
+    document.getElementById("dynamic").textContent =
+        "DYNAMIC: 😀 😂 ❤️‍🔥 👍🏽 🇺🇸 👨‍👩‍👧‍👦";
+}, 1000);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+﻿{
+  "manifest_version": 3,
+  "name": "Emoji Firewall",
+  "version": "1.0.0",
+  "description": "Blocks Unicode emoji from browser-rendered text and replaces recognized sequences with catalog descriptions.",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "catalog.json"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ]
+}
+
+
+
+

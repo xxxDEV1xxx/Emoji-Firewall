@@ -1,0 +1,15 @@
+J:\EmojiFirewall\bin\Debug\net8.0\Catalog\emoji-catalog.json
+J:\EmojiFirewall\bin\Debug\net8.0\EmojiFirewall.exe
+J:\EmojiFirewall\bin\Debug\net8.0\EmojiFirewall.deps.json
+J:\EmojiFirewall\bin\Debug\net8.0\EmojiFirewall.runtimeconfig.json
+J:\EmojiFirewall\bin\Debug\net8.0\EmojiFirewall.dll
+J:\EmojiFirewall\bin\Debug\net8.0\EmojiFirewall.pdb
+J:\EmojiFirewall\obj\Debug\net8.0\EmojiFirewall.GeneratedMSBuildEditorConfig.editorconfig
+J:\EmojiFirewall\obj\Debug\net8.0\EmojiFirewall.AssemblyInfoInputs.cache
+J:\EmojiFirewall\obj\Debug\net8.0\EmojiFirewall.AssemblyInfo.cs
+J:\EmojiFirewall\obj\Debug\net8.0\EmojiFirewall.csproj.CoreCompileInputs.cache
+J:\EmojiFirewall\obj\Debug\net8.0\EmojiFirewall.dll
+J:\EmojiFirewall\obj\Debug\net8.0\refint\EmojiFirewall.dll
+J:\EmojiFirewall\obj\Debug\net8.0\EmojiFirewall.pdb
+J:\EmojiFirewall\obj\Debug\net8.0\EmojiFirewall.genruntimeconfig.cache
+J:\EmojiFirewall\obj\Debug\net8.0\ref\EmojiFirewall.dll

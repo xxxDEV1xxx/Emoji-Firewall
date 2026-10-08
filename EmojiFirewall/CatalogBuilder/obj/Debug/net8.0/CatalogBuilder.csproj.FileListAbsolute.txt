@@ -1,0 +1,14 @@
+J:\EmojiFirewall\CatalogBuilder\bin\Debug\net8.0\CatalogBuilder.exe
+J:\EmojiFirewall\CatalogBuilder\bin\Debug\net8.0\CatalogBuilder.deps.json
+J:\EmojiFirewall\CatalogBuilder\bin\Debug\net8.0\CatalogBuilder.runtimeconfig.json
+J:\EmojiFirewall\CatalogBuilder\bin\Debug\net8.0\CatalogBuilder.dll
+J:\EmojiFirewall\CatalogBuilder\bin\Debug\net8.0\CatalogBuilder.pdb
+J:\EmojiFirewall\CatalogBuilder\obj\Debug\net8.0\CatalogBuilder.GeneratedMSBuildEditorConfig.editorconfig
+J:\EmojiFirewall\CatalogBuilder\obj\Debug\net8.0\CatalogBuilder.AssemblyInfoInputs.cache
+J:\EmojiFirewall\CatalogBuilder\obj\Debug\net8.0\CatalogBuilder.AssemblyInfo.cs
+J:\EmojiFirewall\CatalogBuilder\obj\Debug\net8.0\CatalogBuilder.csproj.CoreCompileInputs.cache
+J:\EmojiFirewall\CatalogBuilder\obj\Debug\net8.0\CatalogBuilder.dll
+J:\EmojiFirewall\CatalogBuilder\obj\Debug\net8.0\refint\CatalogBuilder.dll
+J:\EmojiFirewall\CatalogBuilder\obj\Debug\net8.0\CatalogBuilder.pdb
+J:\EmojiFirewall\CatalogBuilder\obj\Debug\net8.0\CatalogBuilder.genruntimeconfig.cache
+J:\EmojiFirewall\CatalogBuilder\obj\Debug\net8.0\ref\CatalogBuilder.dll
